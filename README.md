@@ -1,4 +1,6 @@
-test
+node_ejs
 ====
 
-test
+web framework: express
+html: ejs
+orm: sequelize
